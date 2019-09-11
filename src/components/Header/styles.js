@@ -25,6 +25,7 @@ export const Cart = styled(Link)`
       color: #fff;
     }
     span {
+      display: flex;
       font-size: 12px;
       color: #999;
     }
